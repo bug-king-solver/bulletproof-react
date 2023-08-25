@@ -1,0 +1,270 @@
+[33mcommit 11d9149c9bb2af0def640d3b690b52db36028428[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: dc6f7b1 0a9616e
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Fri Apr 21 11:32:51 2023 +0200
+
+    Merge pull request #123 from madhusudan-kulkarni/patch-1
+    
+    Update additional-resources.md
+
+[33mcommit 0a9616e15b0747a3499862b78065ca2f81a151af[m
+Author: Madhusudan Kulkarni <96856144+madhusudan-kulkarni@users.noreply.github.com>
+Date:   Tue Apr 18 08:38:40 2023 +0530
+
+    Update additional-resources.md
+    
+    Updated documentation links from the legacy version at https://legacy.reactjs.org/ to the updated version at https://react.dev/
+
+[33mcommit dc6f7b187bb8668465bd6c9dec16ebe87736ab06[m
+Merge: 7744d52 cb02c1e
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Sun Jan 1 19:46:17 2023 +0100
+
+    Merge pull request #103 from sarahsga/jest-cmd
+    
+    fix test script
+
+[33mcommit 7744d525d32893f2c66d003422b8091d23a52517[m
+Merge: 2facb64 bbc26e8
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon Dec 26 10:32:04 2022 +0100
+
+    Merge pull request #105 from ARehmanMahi/readme_patch
+    
+    Reviewed grammatical errors in README.md
+
+[33mcommit bbc26e8c3765a22f1a1975eda1d6cd5719dc38ad[m
+Author: Abdul Rehman <adeel.cs@gmail.com>
+Date:   Mon Nov 28 17:12:56 2022 +0500
+
+    Reviewed grammatical errors in README.md
+
+[33mcommit cb02c1e6174fd015bb006fa9ac318ebb1b15a3a7[m
+Author: Sarah Ahmed <sarahsga4@gmail.com>
+Date:   Thu Nov 3 14:02:01 2022 +0500
+
+    fix test script
+
+[33mcommit 2facb64e827836fcd3ead4c1f7603760b7456619[m
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Wed Aug 10 16:09:20 2022 +0200
+
+    Update project-structure.md
+
+[33mcommit 0a0e8bd9a097329700d3b7e8898f0077aa0b378a[m
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Sun Jul 31 09:43:27 2022 +0200
+
+    cleanup api
+
+[33mcommit 9468e1ab9d530a6b8fbc34de6df762da50da9e74[m
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Sun Jul 31 09:42:56 2022 +0200
+
+    fix styles
+
+[33mcommit 3f213d0754de07c046a2f239de985997b89b57b8[m
+Merge: f9a4fa6 96fbe16
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Sun Jul 3 09:50:57 2022 +0200
+
+    Merge pull request #73 from dc7290/feature/plop-generator-types
+    
+    Added type declaration for plop
+
+[33mcommit 96fbe16e2fc945c9e34ddd5c0d87ef8516952304[m
+Author: dc7290 <dhkh.cba0927@gmail.com>
+Date:   Thu Jun 23 11:31:59 2022 +0900
+
+    Added type declarations
+
+[33mcommit f9a4fa6d6df3b66146971827dfdda2ebfb8d081b[m
+Merge: 15d13d1 190bf9d
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon May 30 17:19:12 2022 +0200
+
+    Merge pull request #66 from SevenOutman/feature/generate-component-in-feature
+    
+    feat(generator): generage component in feature
+
+[33mcommit 15d13d1071095b84d27cca9bc17ba2e30053c464[m
+Merge: 93ef2e2 03a79d4
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon May 30 17:15:46 2022 +0200
+
+    Merge pull request #71 from johnny-miyake/remove_unused_import
+    
+    Remove unused import in smoke.ts
+
+[33mcommit 93ef2e2323d23573b9673b2a5f7ea0823f3ccbb1[m
+Merge: 497076a cd0b86b
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon May 30 17:14:48 2022 +0200
+
+    Merge pull request #70 from caocuong2404/master
+    
+    fix: the`initMocks` function always starts
+
+[33mcommit 497076a05c62196b6918a9d77edf324b2b7d4243[m
+Merge: f3b2be7 db7c46d
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon May 30 17:14:08 2022 +0200
+
+    Merge pull request #68 from pfcodes/patch-1
+    
+    (Spelling fix) Update project-structure.md
+
+[33mcommit 03a79d4f296b90a12ea1338887804b22be9e3631[m
+Author: Miyake J Takuma <i.takuma.miyake@globis.co.jp>
+Date:   Sun May 29 18:08:20 2022 +0900
+
+    Remove unused import in smoke.ts
+
+[33mcommit cd0b86b4f08409abc633c9408aa64037f4434793[m
+Author: Nguyen Cao Cuong - Peter James <50004497+caocuong2404@users.noreply.github.com>
+Date:   Mon May 16 11:52:35 2022 +0700
+
+    fix: the`initMocks` function always starts
+    
+    The value of `.env.*` files variables always string value.
+    - ref: https://github.com/motdotla/dotenv/blob/master/README.md#what-rules-does-the-parsing-engine-follow
+
+[33mcommit db7c46d7729b5c988855eabd11edf4c91366af63[m
+Author: pfcodes <phil@auroradigit.al>
+Date:   Wed Mar 30 16:09:13 2022 -0700
+
+    Update project-structure.md
+    
+    fix spelling
+
+[33mcommit 190bf9d12e927b6d1bd601695bcbf91de8b57305[m
+Author: Doma <leishenghao@126.com>
+Date:   Thu Mar 17 16:14:06 2022 +0000
+
+    feat(generator): generage component in feature
+
+[33mcommit f3b2be7278a5808885b917a17e6323cc4d16700f[m
+Merge: 32ed545 bbb8068
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon Feb 28 08:51:41 2022 +0100
+
+    Merge pull request #62 from theodorosploumis/patch-1
+    
+    Add new URL for pagespeed
+
+[33mcommit bbb806890a8e807146d43bdad46d8f593c473c8e[m
+Author: Theodoros Ploumis <me@theodorosploumis.com>
+Date:   Sun Feb 27 21:39:29 2022 +0200
+
+    Add new URL for pagespeed
+
+[33mcommit 32ed545844f93da00f0b9d4fd3154c475d4773df[m
+Author: Alan <alan2207@live.com>
+Date:   Thu Feb 17 01:18:10 2022 +0100
+
+    update react-query and fix typings
+
+[33mcommit 8d4c3fb7a5bdb61e4557c2d3ea6eb7d6aaa817a1[m
+Merge: ff8308f 02ae36c
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Sat Jan 22 23:19:09 2022 +0100
+
+    Merge pull request #57 from nikhilkutinha/master
+    
+    Remove redundant import
+
+[33mcommit 02ae36ca27fe89394a9400f140c6cfd2c167cfed[m
+Author: Nik <8dsrqddx@anonaddy.me>
+Date:   Sat Jan 22 14:23:54 2022 +0530
+
+    Remove redundant import
+
+[33mcommit ff8308ffe773782937e96a1883185eccebfd931e[m
+Merge: 20a2d8d a980556
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Wed Dec 22 17:09:29 2021 +0100
+
+    Merge pull request #54 from sinchang-codespaces/fix-license
+    
+    Fix license badge
+
+[33mcommit a980556ef8628a58edd46c5c9426c19b98243b54[m
+Author: Jeff Wen <3297859+sinchang@users.noreply.github.com>
+Date:   Wed Dec 22 22:46:26 2021 +0800
+
+    Fix license badge
+
+[33mcommit 20a2d8dee3c93aec6efca1ff895ff2d58fa7fe6a[m
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Tue Dec 21 21:47:59 2021 +0100
+
+    Update additional-resources.md
+
+[33mcommit 1b1d5de5c03eac30914a547fd50019a7313a9079[m
+Merge: 84caeb3 fbea925
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Mon Nov 29 22:41:22 2021 +0100
+
+    Merge pull request #51 from neighborhood999/chore/docs
+    
+    chore(docs): remove redundant words and update code block
+
+[33mcommit fbea9252003b9c2b1490ae0b96104f51d0219d43[m
+Author: Jie Peng <im@jiepeng.me>
+Date:   Mon Nov 29 10:02:46 2021 +0800
+
+    docs(state-management): add xstate
+    
+    Signed-off-by: Jie Peng <im@jiepeng.me>
+
+[33mcommit 721e39df7ebabf6cb55afebe3a1e330fe5f1db3a[m
+Author: Jie Peng <im@jiepeng.me>
+Date:   Mon Nov 29 09:57:32 2021 +0800
+
+    docs: remove redundant words and update code block
+    
+    Signed-off-by: Jie Peng <im@jiepeng.me>
+
+[33mcommit 84caeb36dd2b976d97ee5422fe7983c992e25b17[m
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Wed Nov 24 22:27:47 2021 +0100
+
+    Update components-and-styling.md
+
+[33mcommit 226e59065a6431a23580f6151756bb7954c27a61[m
+Author: Alan <alan2207@live.com>
+Date:   Fri Nov 19 21:22:09 2021 +0100
+
+    remove unused code
+
+[33mcommit 1ae780b51e4ccbd289e640af07b8fdd1cb4bc762[m
+Merge: 4173e87 1e167ad
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Thu Nov 18 19:08:05 2021 +0100
+
+    Merge pull request #50 from fishmandev/patch-2
+    
+    docs: fix a typo in components-and-styling.md
+
+[33mcommit 1e167ad14e07f494c88ceccfe434cafb81a14b21[m
+Author: Dmitriy Fishman <fishman.code@gmail.com>
+Date:   Thu Nov 18 07:17:28 2021 +0200
+
+    Update components-and-styling.md
+
+[33mcommit 4173e8701fcd3a5eb0251ba469a510aeb1fc0761[m
+Merge: fad8976 2ada63b
+Author: Alan Alickovic <alan2207@live.com>
+Date:   Tue Nov 16 22:25:44 2021 +0100
+
+    Merge pull request #49 from fishmandev/patch-1
+    
+    docs: fix a typo in api-layer.md
+
+[33mcommit 2ada63b2a1bdb933a767bff2fb137462028e22b5[m
+Author: Dmitriy Fishman <fishman.code@gmail.com>
+Date:   Sun Nov 14 08:01:10 2021 +0200
+
+    Update api-layer.md
+
+[33mcommit fad8976c4c52204979f6585dc90c5d8c
